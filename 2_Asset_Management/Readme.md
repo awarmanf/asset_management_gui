@@ -1,5 +1,19 @@
 # Asset Management of Mining Company
 
+In this project we choose the HT Radio as an asset to manage. In mining companies, 
+HT radios are very much needed for communication between employees because the work 
+environment generally does not receive signals from cellular operators.
+
+There are four kind of radio communication used by the employees.
+
+Icom F3003 | Icom V80
+---------|-----------
+![Screenshot](icom_f3003.jpg) | ![Screenshot](icom_v80.jpeg)
+
+Motorola GP328 | Motorola GP338
+---------|---------------------
+![Screenshot](motorola_gp328.jpg) | ![Screenshot](motorola_gp338.jpg)
+
 ## Create Database AssetMining
 
 Login to mysql as user root
