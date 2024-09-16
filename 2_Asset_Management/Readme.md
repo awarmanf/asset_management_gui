@@ -21,9 +21,7 @@ You must login as user root to import database AssetMining.
 ## Export CLASSPATH
 
 ```sh
-export CLASSPATH=lib/json-java.jar:lib/mysql-connector-java-5.1.23-bin.jar:\
-lib/swingx-core-1.6.2.jar:lib/poi-3.11-20141221.jar:lib/poi-ooxml-3.11-20141221.jar:\
-lib/poi-ooxml-schemas-3.11-20141221.jar:lib/xmlbeans-2.6.0.jar:.
+export CLASSPATH=lib/json-java.jar:lib/mysql-connector-java-5.1.23-bin.jar:lib/swingx-core-1.6.2.jar:lib/poi-3.11-20141221.jar:lib/poi-ooxml-3.11-20141221.jar:lib/poi-ooxml-schemas-3.11-20141221.jar:lib/xmlbeans-2.6.0.jar:.
 ```
 
 ## Compile
