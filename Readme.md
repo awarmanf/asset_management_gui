@@ -42,7 +42,7 @@ Creating a simple Employee Database Application GUI. The operations are
 
 The dismissed employee enter a `terminate` status.
 
-[Employee Database Application](1_Employee_Database)
+[Employee Database Application](https://github.com/awarmanf/asset_management_gui/tree/master/1_Employee_Database)
 
 ## Asset Management Application.
 
@@ -54,7 +54,5 @@ Creating an Asset Management Application GUI. The operations are
 - Searching based on some input
 - Report the assets in form of xlsx file
 
-[Asset Management Application](2_Asset_Management)
-
-
+[Asset Management Application](https://github.com/awarmanf/asset_management_gui/tree/master/2_Asset_Management)
 
